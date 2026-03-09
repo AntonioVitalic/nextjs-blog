@@ -23,7 +23,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>El más choro de Chile</p>
+        <p>El más choro de Chile y el más Lolein</p>
         <a href="https://github.com/AntonioVitalic" target="_blank" rel="noopener noreferrer">
           Mi GitHub
         </a>
